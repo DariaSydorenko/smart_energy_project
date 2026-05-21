@@ -1,0 +1,17 @@
+{
+  "name": "smartenergy-contract",
+  "version": "1.0.0",
+  "description": "Smart contract for resilience verification",
+  "main": "index.js",
+  "scripts": {
+    "start": "fabric-chaincode-node start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "fabric-contract-api": "^2.5.8",
+    "fabric-shim": "^2.5.8"
+  }
+}
